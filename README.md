@@ -74,5 +74,4 @@ this folder contain screenshot of  graphs , training time ,  etc.
 ---
 ## Accuracy of final model: 0.9800
 
-
-
+# thank you for reading 
