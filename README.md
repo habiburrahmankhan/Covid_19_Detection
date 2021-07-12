@@ -6,8 +6,13 @@ Even though a lot of work has already been done on Covid-19 detection using Ches
 #### To achieve higher accuracy in the detection of Covid-19 using Chest X-rays, the following model was used: 
 ###### We used Transfer Learning approach to train the following models:
 > Densenet201
+
 > InceptionV3
+
+
 > Resnet50V2
+
+
 * An ensemble model, consisting of the three models, is created.
 * According to the accuracy yielded by the models individually, weights were assigned to ensemble model.
 ![flow of program ](https://github.com/habiburrahmankhan/Covid_19_Detection/blob/main/diagram.png)
